@@ -5,7 +5,29 @@
 [![Validation Ready](https://img.shields.io/badge/Validation-GxP%20Compliant-green)]()
 [![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange)]()
 
-This lab simulates validating a GxP-compliant infrastructure deployment using AWS and Azure.
+This project shows how to build and validate a cloud setup that meets GxP compliance requirements using AWS and Azure.
+
+It’s designed for environments like healthcare or pharma, where systems must follow strict rules to protect data and ensure safety.
+
+
+---
+
+**What This Lab Covers**
+
+This lab simulates a full validation workflow:
+
+✅ Building cloud infrastructure with Terraform
+
+✅ Creating and testing GxP-compliant environments
+
+✅ Using standard validation templates (IQ/OQ/PQ)
+
+✅ Managing risks and change requests
+
+✅ Automating tasks using PowerShell and GitHub Actions
+
+You’ll get a full view of what it takes to deploy cloud services the right way in regulated industries.
+
 
 ---
 
