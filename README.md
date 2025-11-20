@@ -1,4 +1,5 @@
 # CloudCompliance-Lab
+[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen?style=for-the-badge)](https://github.com/Watchcat25/CloudCompliance-Lab/generate)
 
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet)](https://www.terraform.io/)
 [![Validation Ready](https://img.shields.io/badge/Validation-GxP%20Compliant-green)]()
