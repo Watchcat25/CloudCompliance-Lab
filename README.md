@@ -43,6 +43,20 @@ You’ll get a full view of what it takes to deploy cloud services the right way
 
 ---
 
+✅ Validation Evidence
+1. Installation Qualification (IQ)
+
+Command: terraform init
+Purpose: Initialize Terraform providers.
+Command: terraform validate
+Purpose: Validate that configuration is syntactically correct.
+
+Result: ✅ Success - Configuration is valid.
+
+Screenshot:
+<img width="1919" height="299" alt="I!_terraform_init_validate" src="https://github.com/user-attachments/assets/a7cd428c-b6db-42dc-b45d-329e5d5ab403" />
+
+
 ## 🚀 How to Use
 
 1. Clone the repo:
